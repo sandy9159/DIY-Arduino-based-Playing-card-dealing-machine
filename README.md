@@ -99,6 +99,23 @@ If you get yourself registered today at [JLCPCB](https://jlcpcb.com/IAT ) you ge
 
 
 
+![image](https://user-images.githubusercontent.com/19898602/146788317-2ddca867-0577-43fe-85a2-50ce2d472908.png)
+![image](https://user-images.githubusercontent.com/19898602/146788359-422399b1-5514-4ffe-b769-184390f4c7ae.png)
+
+
+Then I place the stepper motor on the 4mm wooden sheet and then I 3D print the clamp 
+on this clamp the deck of card will be placed
+This whole arrangment i s then placed on round wooden disc 
+and this round disc is placed inverted on the 3D printed gear ring.
+
+![image](https://user-images.githubusercontent.com/19898602/146788929-76b3edd4-43fe-49a1-a0e7-220f8297bde8.png)
+
+In this way the build of machine is complete at last we have to place the deck of card on the top 
+white   3D printed box.
+
+
+![MVI_0001_3_2](https://user-images.githubusercontent.com/19898602/146789266-07e25e9c-df80-4a09-a4d8-10110f063666.gif)
+
 
 
 
